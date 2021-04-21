@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="mil" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="25" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -5174,6 +5174,7 @@ Source: www.kingbright.com</description>
 <wire x1="231.69" y1="17.858" x2="231.69" y2="22.43" width="0.1524" layer="205"/>
 <text x="243.1962" y="5.7422" size="1.9304" layer="100" font="vector">www.hexabitz.com</text>
 <text x="31.03" y="197.69" size="1.778" layer="150">VDD=3.3 Volts</text>
+<text x="182.7442" y="4.5992" size="1.9304" layer="101" font="vector">Salah Souda</text>
 </plain>
 <instances>
 <instance part="C8" gate="G$1" x="236.22" y="119.38" smashed="yes" rot="MR0">
@@ -8244,6 +8245,7 @@ Source: www.kingbright.com</description>
 <wire x1="169.46" y1="7.698" x2="215.18" y2="7.698" width="0.1524" layer="205"/>
 <wire x1="231.69" y1="17.858" x2="231.69" y2="22.43" width="0.1524" layer="205"/>
 <text x="243.1962" y="5.7422" size="1.9304" layer="100" font="vector">www.hexabitz.com</text>
+<text x="184.0142" y="4.5992" size="1.9304" layer="101" font="vector">Salah Souda</text>
 </plain>
 <instances>
 <instance part="Q1" gate="G$1" x="80.01" y="182.88" smashed="yes" rot="R90">

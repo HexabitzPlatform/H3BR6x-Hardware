@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2021-04-21T12:15:45Z",
+        "CreationDate": "2022-04-28T08:20:43Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -15,7 +15,7 @@
         "Name": {
             "ProjectId": "H3BR6_Hardware"
         },
-        "Owner": "salah souda <modi.sodah@gmail.com>",
+        "Owner": "Ibrahim Zaeiter <zeater18@gmail.com>",
         "Size": {
             "X": 60,
             "Y": 34.64

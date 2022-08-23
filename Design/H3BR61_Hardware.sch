@@ -8240,12 +8240,12 @@ Source: www.kingbright.com</description>
 <text x="200.0162" y="19.2042" size="1.9304" layer="100" font="vector">Title</text>
 <text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H3BR61</text>
 <text x="177.2578" y="10.7714" size="1.9304" layer="101" font="vector">6-Digit 7-Segment Display</text>
-<text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H3BR61_Frontend</text>
+<text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H3BR61_Backend</text>
 <wire x1="169.46" y1="3.38" x2="169.46" y2="7.698" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="7.698" x2="169.46" y2="17.858" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="17.858" x2="169.46" y2="22.43" width="0.1524" layer="205"/>
 <text x="222.8" y="9.7808" size="1.9304" layer="101" font="vector">Letter</text>
-<text x="228.2102" y="14.2766" size="1.9304" layer="101" font="vector">0</text>
+<text x="228.2102" y="14.2766" size="1.9304" layer="101" font="vector">1</text>
 <text x="224.07" y="4.9548" size="1.9304" layer="101" font="vector">1</text>
 <text x="228.896" y="4.9548" size="1.9304" layer="101" font="vector">2</text>
 <wire x1="231.69" y1="3.38" x2="231.69" y2="17.858" width="0.1524" layer="205"/>
@@ -11285,12 +11285,12 @@ Source: www.kingbright.com</description>
 <text x="200.0162" y="19.2042" size="1.9304" layer="100" font="vector">Title</text>
 <text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H3BR61</text>
 <text x="177.2578" y="10.7714" size="1.9304" layer="101" font="vector">6-Digit 7-Segment Display</text>
-<text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H3BR61_Backend</text>
+<text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H3BR61_Frontend</text>
 <wire x1="169.46" y1="3.38" x2="169.46" y2="7.698" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="7.698" x2="169.46" y2="17.858" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="17.858" x2="169.46" y2="22.43" width="0.1524" layer="205"/>
 <text x="222.8" y="9.7808" size="1.9304" layer="101" font="vector">Letter</text>
-<text x="228.2102" y="14.2766" size="1.9304" layer="101" font="vector">0</text>
+<text x="228.2102" y="14.2766" size="1.9304" layer="101" font="vector">1</text>
 <text x="224.07" y="4.9548" size="1.9304" layer="101" font="vector">2</text>
 <text x="228.896" y="4.9548" size="1.9304" layer="101" font="vector">2</text>
 <wire x1="231.69" y1="3.38" x2="231.69" y2="17.858" width="0.1524" layer="205"/>
